@@ -1,0 +1,8 @@
+cyvcf2
+pandas
+scikit-learn
+scikit-learn-intelex
+joblib
+numpy
+packaging
+setuptools

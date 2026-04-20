@@ -1,0 +1,17 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Data files (The most important part!)
+data/raw/*.vcf
+data/raw/*.vcf.gz
+data/processed/*.csv
+data/processed/*.pkl
+models/*.pkl
+
+# Log files
+*.log
+
+# System files
+.DS_Store
