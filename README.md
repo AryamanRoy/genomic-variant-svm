@@ -29,8 +29,8 @@ The model was evaluated on a balanced test set derived from ClinVar features.
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/svm_project.git
-   cd svm_project
+   git clone https://github.com/AryamanRoy/svm_project.git
+   \ncd svm_project
 
 2. Set up a virtual environment:
    python -m venv venv
